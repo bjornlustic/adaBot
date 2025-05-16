@@ -1,9 +1,6 @@
 # Dependencies
 node_modules/
 
-# Configuration - keep your secrets safe!
-config.json
-
 # Logs
 *.log
 npm-debug.log*
@@ -18,5 +15,4 @@ yarn-error.log*
 .env.production.local
 
 # Docker
-.dockerignore
 docker-compose.override.yml 
