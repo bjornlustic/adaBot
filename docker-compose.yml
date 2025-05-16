@@ -1,0 +1,8 @@
+services:
+  adabot:
+    build: 
+      context: .
+    container_name: adabot
+    restart: on-failure
+    environment:
+      NODE_ENV: production

@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "PRESENCE_NAME": "DayZ Server Status",
+    "PRESENCE_TYPE": "WATCHING",
+    "POLLING_INTERVAL": 300,
+    "SERVER": 
+        {
+            "NAME": "My Awesome DayZ Server",
+            "CHANNEL_ID": "YOUR_DISCORD_VOICE_CHANNEL_ID_HERE",
+            "CFTOOLS_HOSTNAME": "YOUR_SERVER_IP_OR_HOSTNAME_FOR_CFTOOLS",
+            "CFTOOLS_PORT": "YOUR_SERVER_GAME_PORT_FOR_CFTOOLS"
+        }
+} 
